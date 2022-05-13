@@ -1,4 +1,4 @@
-#IMP006A Zj-58
+# IMP006A Zj-58
 Driver Linux da Impressora Bluetooth IMP006A Zj-58 POS
 
 Se você quer usar esta impressora apenas conectada a interface USB, somente instale o driver usando:
