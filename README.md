@@ -2,31 +2,33 @@
 IMP006A Zj-58 POS Bluetooth Printer Linux Driver
 
 If you only want use this printer with usb cable just open a terminal and install driver using:
-
+~~~
 sudo chmod +x install58
-
+~~~
 And next:
-
+~~~
 sudo ./install58
-
+~~~
 This is how to configure IMP006A or Zj-58 Bluetooth printer on linux by Bluetooth connection.
 # 1
 Install driver with:
-
+~~~
 sudo chmod +x install58
-
+~~~
 and  next:
-
+~~~
 sudo ./install58
+~~~
 # 2 
   Install cups with:
-
+~~~
 sudo apt install cups
+~~~
 # 3 
   Install bluez-cups with:
-
+~~~
 sudo apt install bluez-cups
-
+~~~
 (This allow cups to use bluetooth protocol)
 # 4 
   Sync the bluetooth printer with your computer, use password 1234 or 0000. Or use the default passwords according to your manufacturer.
