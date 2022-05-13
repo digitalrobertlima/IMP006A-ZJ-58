@@ -9,7 +9,7 @@ And next:
 ~~~
 sudo ./install58
 ~~~
-This is how to configure IMP006A or Zj-58 Bluetooth printer on linux by Bluetooth connection.
+# This is how to configure IMP006A or Zj-58 Bluetooth printer on linux by Bluetooth connection.
 # 1
 Install driver with:
 ~~~
