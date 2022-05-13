@@ -11,4 +11,4 @@ sudo ./install58
 ~~~
 Abaixo está como configurar IMP006A ou Impressora Bluetooth Zj-58 no linux pela conexão Bluetooth.
 
-Nota: estas configurações também se aplicam aos modelos GO HIT XPJ-58*(testado)*
+Nota: estas configurações também se aplicam aos modelos GO HIT XPJ-58* (testado)
