@@ -44,8 +44,10 @@ sudo apt install bluez-cups
   In URI put bluetooth://0f0809070b08 where "0f0809070b08" is your bluetooth printer adress
 ### 10
   Select POS58.ppd File if necessary and click 'ADD Printer'
-
-
+### 11
+  Go to the file you want to print or open the system where the printout will be made...
+### 12
+  Check the paper preset and send it to the print queue.
 #### Cups link:
   https://github.com/apple/cups/releases
 
