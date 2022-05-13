@@ -33,7 +33,7 @@ sudo apt install bluez-cups
 ~~~
 _Isso permite ao CUPS usar o protocolo bluetooth_
 ### 4
-Sincronize a impressora bluetooth com teu computador. Use as senhas 1234 ou 0000. Or use the default passwords according to your manufacturer.
+Sincronize a impressora bluetooth com teu computador. Use as senhas 1234 ou 0000. Ou use as senhas padronizadas de acordo com o teu fabricante.
 ### 5
 Tome uma nota com o endereço bluetooth da impressora. Exemplo: 0f:08:09:07:0b:08
 ### 6
